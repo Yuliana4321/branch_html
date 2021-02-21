@@ -5,3 +5,4 @@ Membuat branch_html
 3.	Merge		: adalah proses menggagabungkan dari dua branch
 4.	Conflict		: adalah konflik pada code editor kita yang harus di selesaikan secara manual agar bisa langsung di merge
 5.	Checkout	: berpindah ke sebuah commit
+main
